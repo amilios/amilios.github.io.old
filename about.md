@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: CV
 ---
 
 You can view my full CV in PDF format [here]({{ site.url }}/files/full-cv.pdf).
