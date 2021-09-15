@@ -49,6 +49,10 @@ HTML/CSS/JS)
 
 ## Education
 
+### M.Sc. in Computer Science, McGill University, 2022
+Admitted to the M.Sc. program at McGill University under Dr. Siva Reddy. 
+* accepted with a competitive NSERC CGS-M grant
+
 ### Bachelor of Computer Science, Dalhouise University, 2020
 #### First Class Honours with Co-op
 * accepted with a full scholarship, at a value of $41,900 CAD
