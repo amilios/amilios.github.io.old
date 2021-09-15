@@ -64,7 +64,7 @@ author:
     # spotify:       user/<number>
     # soundcloud:    <username>
     # lastfm:        <username>
-     instagram:     atmilios
+    instagram:     atmilios
     # flickr:        <string>@<string>
     # 500px:         <username>
     # dribble:       <username>
@@ -79,7 +79,7 @@ author:
     # foursquare:    <number>
     # yelp:          <string>
     # github:        <username>
-     stackoverflow: 2373239/aristides
+    stackoverflow: 2373239/aristides
     # npm:           <username>
     # hackernews:    <username>
     # trello:        <firstname><lastname>
