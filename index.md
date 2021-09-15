@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: About Me
 ---
 
 My name is **Aristides Milios**, and I'm a highly motivated machine learning researcher passionate about making machine learning more **interpretable** and **effective at learning the way humans do**. I am also passionate about promoting **entrepreneurship and design thinking education**, at both the secondary and tertiary level. 
