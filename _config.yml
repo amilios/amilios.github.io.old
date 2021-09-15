@@ -54,17 +54,17 @@ author:
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
   social:
-    facebook:      <username>
-    twitter:       <username>
-    google:        <number>
-    vk:            <username>
-    youtube:       <string>_<string>_<string>
+    facebook:      aristides.milios
+    twitter:       amilios
+    #google:        <number>
+    #vk:            <username>
+    #youtube:       <string>_<string>_<string>
     # vimeo:         <username>
     # vine:          <username>
     # spotify:       user/<number>
     # soundcloud:    <username>
     # lastfm:        <username>
-    # instagram:     <username>
+     instagram:     atmilios
     # flickr:        <string>@<string>
     # 500px:         <username>
     # dribble:       <username>
@@ -79,7 +79,7 @@ author:
     # foursquare:    <number>
     # yelp:          <string>
     # github:        <username>
-    # stackoverflow: <number>/<username>
+     stackoverflow: 2373239/aristides
     # npm:           <username>
     # hackernews:    <username>
     # trello:        <firstname><lastname>
