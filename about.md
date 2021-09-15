@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-You can view my full CV in PDF format [here]({{ site.url }}/files/full-cv.pdf).
+You can view my full CV in PDF format [here]({{ site.url }}/public/full-cv.pdf).
 {: .notice}
 
 ## Knowledgeable about...
