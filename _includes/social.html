@@ -137,16 +137,6 @@
     {% assign url = "http://stackoverflow.com/users/" | append: username %}
     {% include social-list-item.html platform=platform url=url %}
   {% endif %}
-  
-  {% if platform == "linkedin" %}
-    {% assign url = "https://www.linkedin.com/in/" | append: username %}
-    {% include social-list-item.html platform=platform url=url %}
-  {% endif %}
-  
-  {% if platform == "github" %}
-    {% assign url = "http://github.com/" | append: username %}
-    {% include social-list-item.html platform=platform url=url %}
-  {% endif %}
 
   {% if platform == "trello" %}
     {% assign url = "https://trello.com/" | append: username %}
