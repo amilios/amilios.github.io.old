@@ -16,6 +16,8 @@ HTML/CSS/JS)
 
 ## Teaching
 
+<hr>
+
 ### Winter 2021: Teaching Assistant at [Dalhousie University](https://www.dal.ca/)
 #### Halifax, Nova Scotia, Canada
 * CSCI 3162 Digital Media, with Dr. Dirk Arnold
@@ -27,6 +29,8 @@ HTML/CSS/JS)
 * CSCI 2141 Intro to Database Systems, with Dr. Khurram Aziz
 
 ## Work Experience
+
+<hr>
 
 ### Winter 2021: Student Researcher at [Dalhousie University](https://www.dal.ca/)
 #### Halifax, Nova Scotia, Canada
@@ -49,6 +53,8 @@ HTML/CSS/JS)
 
 ## Education
 
+<hr>
+
 ### M.Sc. in Computer Science, McGill University, 2022
 Admitted to the M.Sc. program at McGill University under Dr. Siva Reddy. 
 * accepted with a competitive NSERC CGS-M grant
@@ -63,6 +69,8 @@ Entrepreneurship](https://www.dal.ca/faculty/management/nnce.html) (Faculty of M
 
 ## Leadership
 
+<hr>
+
 ### Co-president, [Dalhousie Entrepreneurship Society](https://www.facebook.com/dalentsoc/)
 * introduced series of workshops on entrepreneurship and design thinking concepts, open to students of all faculty, with the support of the NNCE/Faculty of Management
 
@@ -76,11 +84,15 @@ world
 
 ## Volunteering
 
+<hr>
+
 * Co-founder and Program Coordinator, [Hoist Halifax](https://voltaeffect.com/programs/hoist/)
 * Guest Speaker, [Refresh Annapolis Valley](https://refreshannapolisvalley.org/)
 * Youth Entrepreneurship Speaker, [YES Atlantic Conference](https://www.yes-atlantic.com/)
 
 ## Languages
+
+<hr>
 
 * English (native)
 * Greek (native)
@@ -88,11 +100,15 @@ world
 
 ## Academic Publications
 
+<hr>
+
 * K. Bereta, A. Milios, K. Chatzikokolakis, and D. Zissis, "Monitoring Marine Protected Areas using Data Fusion and AI Techniques," NATO CMRE Maritime Situational Awareness
 Workshop, La Spezia, Italy, 8-10 October 2019. [Link](https://www.cmre.nato.int/msaw-2019-home/msaw2019-papers/) [Peer-Reviewed]
 * A. Milios, K. Bereta, K. Chatzikokolakis, D. Zissis and S. Matwin, "Automatic Fusion of Satellite Imagery and AIS data for Vessel Detection," 2019 22th International Conference on
 Information Fusion (FUSION), Ottawa, ON, Canada, 2-5 July 2019. [Link](https://ieeexplore.ieee.org/abstract/document/9011339) [Peer-Reviewed]
 
 ## Workshop Presentations
+
+<hr>
 
 * A. Milios, D. Zissis, K. Chatzikokolakis, and S. Matwin, "Sail ho! A deep learning approach for ship detection which utilises complimentary sensing capabilities, " 2018 Canadian Tracking and Fusion group (CTFG) Workshop, Ottawa, ON, Canada, 15-16 October 2018.
