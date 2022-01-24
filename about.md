@@ -105,7 +105,7 @@ world
 
 <hr>
 
-* S. Matwin, A. Milios, P. Pralat, A. Soares, and F. Theberge, "Survey of Generative Methods for Social Media Analysis", arXiv preprint: https://arxiv.org/abs/2112.07041
+* S. Matwin, A. Milios, P. Pralat, A. Soares, and F. Theberge, "Survey of Generative Methods for Social Media Analysis", arXiv preprint: [https://arxiv.org/abs/2112.07041](https://arxiv.org/abs/2112.07041)
 * K. Bereta, A. Milios, K. Chatzikokolakis, and D. Zissis, "Monitoring Marine Protected Areas using Data Fusion and AI Techniques," NATO CMRE Maritime Situational Awareness
 Workshop, La Spezia, Italy, 8-10 October 2019. [Link](https://www.cmre.nato.int/msaw-2019-home/msaw2019-papers/) [Peer-Reviewed]
 * A. Milios, K. Bereta, K. Chatzikokolakis, D. Zissis and S. Matwin, "Automatic Fusion of Satellite Imagery and AIS data for Vessel Detection," 2019 22th International Conference on
