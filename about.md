@@ -6,6 +6,8 @@ title: CV
 You can view my full CV in PDF format [here]({{ site.url }}/public/full-cv.pdf).
 {: .notice}
 
+Sections: [Education](#education), [Teaching](#teaching), [Work Experience](#work-experience), [Leadership](#leadership), [Academic Publications](#academic-publications),
+
 ## Knowledgeable about...
 
 * deep learning and neural networks, specifically large language models (BERT, RoBERTa, GPT-series)
@@ -13,6 +15,24 @@ You can view my full CV in PDF format [here]({{ site.url }}/public/full-cv.pdf).
 Innovation Fellows Program, and presidential role in Dalhousie Entrepreneurship Society)
 * full-stack web design and web system architecture (Python, PHP, WordPress, PostgreSQL,
 HTML/CSS/JS)
+
+## Education
+
+<hr>
+
+### M.Sc. in Computer Science, McGill University, 2022
+Admitted to the M.Sc. program at McGill University under Dr. Siva Reddy. 
+* accepted with a competitive NSERC CGS-M grant ($17.5k value + automatic $5k top-up = $22.5k total value)
+* VP finance for the Computer Science Graduate Society for 2021-2022
+* cGPA of 4.0/4.0
+
+### Bachelor of Computer Science, Dalhouise University, 2020
+#### First Class Honours with Co-op
+* accepted with a full scholarship, at a value of $41,900 CAD
+* graduated with First Class Honours and GPA of 4.13/4.3, in top 10% of class
+* wrote Honours Thesis on NLP topic (novel compact pre-trained BERT embedding), supervised by [Dr. Stan Matwin](https://web.cs.dal.ca/~stan/)
+* Awarded Entrepreneurial Skills Certificate by the [Norman Newman Centre for
+Entrepreneurship](https://www.dal.ca/faculty/management/nnce.html) (Faculty of Management), through the [Entrepreneurial Skills Program](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=105&chapterid=6420&loaduseredits=False)
 
 ## Teaching
 
@@ -36,7 +56,6 @@ HTML/CSS/JS)
 #### Halifax, Nova Scotia, Canada
 * Research assistantship with Dr. Luis Torgo, researching healthcare-related time series clustering and classification
 
-
 ### Fall 2019: Research Intern at [Know-Center GmbH](https://www.know-center.tugraz.at/en/)
 #### Graz, Austria
 * researched active learning, recommender systems
@@ -50,22 +69,6 @@ HTML/CSS/JS)
 * did research involving fusion of AIS data streams and radar and optical-based satellite imagery for better maritime awareness
 * first and second internship as part of degree at Dalhousie, second internship co-funded by a [MITACS Globalink Grant](https://www.mitacs.ca/en/programs/globalink/globalink-research-award)
 * resulted in presentation at [CTFG workshop](http://www.ctfg.ca/) in Ottawa, a full paper at [FUSION 2019 Conference](https://www.fusion2019.org/program.html), and a full paper at the [Maritime Situational Awareness Workshop](https://www.cmre.nato.int/msaw-2019-home) in La Spezia, Italy
-
-## Education
-
-<hr>
-
-### M.Sc. in Computer Science, McGill University, 2022
-Admitted to the M.Sc. program at McGill University under Dr. Siva Reddy. 
-* accepted with a competitive NSERC CGS-M grant
-
-### Bachelor of Computer Science, Dalhouise University, 2020
-#### First Class Honours with Co-op
-* accepted with a full scholarship, at a value of $41,900 CAD
-* graduated with First Class Honours and GPA of 4.13/4.3, in top 10% of class
-* wrote Honours Thesis on NLP topic (novel compact pre-trained BERT embedding), supervised by [Dr. Stan Matwin](https://web.cs.dal.ca/~stan/)
-* Awarded Entrepreneurial Skills Certificate by the [Norman Newman Centre for
-Entrepreneurship](https://www.dal.ca/faculty/management/nnce.html) (Faculty of Management), through the [Entrepreneurial Skills Program](https://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=105&chapterid=6420&loaduseredits=False)
 
 ## Leadership
 
@@ -102,6 +105,7 @@ world
 
 <hr>
 
+* S. Matwin, A. Milios, P. Pralat, A. Soares, and F. Theberge, "Survey of Generative Methods for Social Media Analysis", arXiv preprint: https://arxiv.org/abs/2112.07041
 * K. Bereta, A. Milios, K. Chatzikokolakis, and D. Zissis, "Monitoring Marine Protected Areas using Data Fusion and AI Techniques," NATO CMRE Maritime Situational Awareness
 Workshop, La Spezia, Italy, 8-10 October 2019. [Link](https://www.cmre.nato.int/msaw-2019-home/msaw2019-papers/) [Peer-Reviewed]
 * A. Milios, K. Bereta, K. Chatzikokolakis, D. Zissis and S. Matwin, "Automatic Fusion of Satellite Imagery and AIS data for Vessel Detection," 2019 22th International Conference on
