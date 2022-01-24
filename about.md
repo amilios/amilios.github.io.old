@@ -23,7 +23,7 @@ HTML/CSS/JS)
 ### M.Sc. in Computer Science, McGill University, 2022
 Admitted to the M.Sc. program at McGill University under Dr. Siva Reddy. 
 * accepted with a competitive NSERC CGS-M grant ($17.5k value + automatic $5k top-up = $22.5k total value)
-* VP Finance for the Computer Science Graduate Society for 2021-2022
+* VP Finance for the Computer Science Graduate Society for 2021-2022, architected the [society's website redesign](https://csgs.cs.mcgill.ca)
 * cGPA of 4.0/4.0
 
 ### Bachelor of Computer Science, Dalhouise University, 2020
