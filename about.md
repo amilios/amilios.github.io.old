@@ -6,7 +6,7 @@ title: CV
 You can view my full CV in PDF format [here]({{ site.url }}/public/full-cv.pdf).
 {: .notice}
 
-Sections: [Education](#education), [Teaching](#teaching), [Work Experience](#work-experience), [Leadership](#leadership), [Academic Publications](#academic-publications),
+Sections: [Education](#education), [Teaching](#teaching), [Work Experience](#work-experience), [Leadership](#leadership), [Academic Publications](#academic-publications)
 
 ## Knowledgeable about...
 
