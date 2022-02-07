@@ -6,15 +6,14 @@ title: CV
 You can view my full CV in PDF format [here]({{ site.url }}/public/full-cv.pdf).
 {: .notice}
 
-Sections: [Education](#education), [Teaching](#teaching), [Work Experience](#work-experience), [Leadership](#leadership), [Academic Publications](#academic-publications)
+Sections: [Education](#education), [Teaching](#teaching), [Work Experience](#work-experience), [Leadership](#leadership), [Awards and Scholarships](#awards-and-scholarships), [Academic Publications](#academic-publications)
 
 ## Knowledgeable about...
 
 * deep learning and neural networks, specifically large language models (BERT, RoBERTa, GPT-series)
 * entrepreneurship and innovation (through startup, Shad Valley, Stanford’s University
 Innovation Fellows Program, and presidential role in Dalhousie Entrepreneurship Society)
-* full-stack web design and web system architecture (Python, PHP, WordPress, PostgreSQL,
-HTML/CSS/JS)
+* full-stack web design and web system architecture (Python, React, PostgreSQL)
 
 ## Education
 
@@ -22,13 +21,12 @@ HTML/CSS/JS)
 
 ### M.Sc. in Computer Science, McGill University, 2022
 Admitted to the M.Sc. program at McGill University under Dr. Siva Reddy. 
-* accepted with a competitive NSERC CGS-M grant ($17.5k CAD value + automatic $5k top-up = $22.5k total value)
+* researching large pre-trained language models and knowledge augmentations
 * VP Finance for the Computer Science Graduate Society for 2021-2022, architected the [society's website redesign](https://csgs.cs.mcgill.ca)
 * cGPA of 4.0/4.0
 
 ### Bachelor of Computer Science, Dalhouise University, 2020
 #### First Class Honours with Co-op
-* accepted with a full scholarship, at a value of $41.9k CAD
 * graduated with First Class Honours and GPA of 4.13/4.3, in top 10% of class
 * wrote Honours Thesis on NLP topic (novel compact pre-trained BERT embedding), supervised by [Dr. Stan Matwin](https://web.cs.dal.ca/~stan/)
 * Awarded Entrepreneurial Skills Certificate by the [Norman Newman Centre for
@@ -38,15 +36,12 @@ Entrepreneurship](https://www.dal.ca/faculty/management/nnce.html) (Faculty of M
 
 <hr>
 
-### Winter 2021: Teaching Assistant at [Dalhousie University](https://www.dal.ca/)
+### Fall and Winter 2021: Teaching Assistant at [Dalhousie University](https://www.dal.ca/)
 #### Halifax, Nova Scotia, Canada
-* CSCI 3162 Digital Media, with Dr. Dirk Arnold
-
-### Fall 2020: Teaching Assistant at [Dalhousie University](https://www.dal.ca/)
-#### Halifax, Nova Scotia, Canada
-* CSCI 3141 Foundations of Data Science using R, with [Dr. Luis Torgo](https://web.cs.dal.ca/~ltorgo/)
-* CSCI 2170 Server-side Scripting, with Dr. Bonnie MacKay
-* CSCI 2141 Intro to Database Systems, with Dr. Khurram Aziz
+* CSCI 3162 Digital Media, with [Dr. Dirk Arnold](https://web.cs.dal.ca/~dirk/) (Winter 2021)
+* CSCI 3141 Foundations of Data Science using R, with [Dr. Luis Torgo](https://web.cs.dal.ca/~ltorgo/) (Fall 2020)
+* CSCI 2170 Server-side Scripting, with [Dr. Bonnie MacKay](https://web.cs.dal.ca/~bmackay/) (Fall 2020)
+* CSCI 2141 Intro to Database Systems, with [Dr. Khurram Aziz](https://www.dal.ca/faculty/computerscience/faculty-staff/khurram-aziz.html) (Fall 2020)
 
 ## Work Experience
 
@@ -55,20 +50,21 @@ Entrepreneurship](https://www.dal.ca/faculty/management/nnce.html) (Faculty of M
 ### Winter 2021: Student Researcher at [Dalhousie University](https://www.dal.ca/)
 #### Halifax, Nova Scotia, Canada
 * Research assistantship with Dr. Luis Torgo, researching healthcare-related time series clustering and classification
+* Research assistantship with Dr. Stan Matwin, researching large pre-trained language models and the societal risks they pose (resulted in survey paper, see [Publications](#academic-publications))
 
 ### Fall 2019: Research Intern at [Know-Center GmbH](https://www.know-center.tugraz.at/en/)
 #### Graz, Austria
-* researched active learning, recommender systems
-* advanced existing research project "Risk-ID", an interactive dataset labelling tool for network traffic data
-* implemented ML backend in Keras and Tensorflow, Attention-Layer-based visualization, Active-Learning mode of function
-* designed user study to evaluate effectiveness of changes to tool
+* Third co-op work term of degree at Dalhousie
+* Researched Active Learning techniques for Recommender Systems, RNNs with Attention
+* Worked on existing research project “RiskID”, wrote an ML backend in Keras, implemented an Attention-based visualization and an Active Learning-based mode of function
+* Helped design a user study to evaluate the effectiveness of the changes to the tool
 
 ### Summer 2018, Winter 2019: Research Intern at [MarineTraffic Inc.](https://www.marinetraffic.com/)/[Dalhousie University](https://www.dal.ca/)
 #### Athens, Greece
 * research collaboration between the [Institute for Big Data Analytics at Dalhousie University](https://bigdata.cs.dal.ca/) and MarineTraffic Inc
 * did research involving fusion of AIS data streams and radar and optical-based satellite imagery for better maritime awareness
-* first and second internship as part of degree at Dalhousie, second internship co-funded by a [MITACS Globalink Grant](https://www.mitacs.ca/en/programs/globalink/globalink-research-award)
-* resulted in presentation at [CTFG workshop](http://www.ctfg.ca/) in Ottawa, a full paper at [FUSION 2019 Conference](https://www.fusion2019.org/program.html), and a full paper at the [Maritime Situational Awareness Workshop](https://www.cmre.nato.int/msaw-2019-home) in La Spezia, Italy
+* first and second internship as part of degree at Dalhousie
+* resulted in presentation at [CTFG workshop](http://www.ctfg.ca/) in Ottawa, a full paper at [FUSION 2019 Conference](https://www.fusion2019.org/program.html), and a full paper at the [Maritime Situational Awareness Workshop](https://www.cmre.nato.int/msaw-2019-home) in La Spezia, Italy (see [Publications](#academic-publications))
 
 ## Leadership
 
@@ -79,9 +75,8 @@ Entrepreneurship](https://www.dal.ca/faculty/management/nnce.html) (Faculty of M
 
 ### Stanford [University Innovation Fellow](https://universityinnovationfellows.org/) for Dalhousie
 * passed through rigorous 2-month online training, then 4-day conference in Silicon Valley
-(Stanford Campus and Google headquarters) to meet all other Fellows from all over the
-world
-* funded by the NNCE
+(Stanford Campus and Google headquarters) to meet other Fellows from around the world
+* funded by the Norman Newman Centre for Entrepreneurship
 
 ### [SHAD](https://www.shad.ca/) Fellow
 
@@ -92,6 +87,17 @@ world
 * Co-founder and Program Coordinator, [Hoist Halifax](https://voltaeffect.com/programs/hoist/)
 * Guest Speaker, [Refresh Annapolis Valley](https://refreshannapolisvalley.org/)
 * Youth Entrepreneurship Speaker, [YES Atlantic Conference](https://www.yes-atlantic.com/)
+
+## Awards and Scholarships
+
+<hr>
+
+* [NSERC CGS-M grant](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp) ($17.5K value)
+* McGill Lorne Trottier Graduate Fellowship ($5K value)
+* [MITACS Globalink Grant](https://www.mitacs.ca/en/programs/globalink/globalink-research-award) for second co-op term at Dalhousie ($6K value)
+* Dalhousie Schulich Scholarship ($41.9K value)
+* Dalhousie Bruce and Dorothy Rossetti Scholarship Silver Award for a Second-Year student,
+for having the second-best GPA of my year ($1750 value)
 
 ## Languages
 
