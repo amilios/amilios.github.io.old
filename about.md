@@ -22,7 +22,6 @@ Innovation Fellows Program, and presidential role in Dalhousie Entrepreneurship 
 ### M.Sc. in Computer Science, McGill University, 2022
 Admitted to the M.Sc. program at McGill University under Dr. Siva Reddy. 
 * researching large pre-trained language models and knowledge augmentations
-* VP Finance for the Computer Science Graduate Society for 2021-2022, architected the [society's website redesign](https://csgs.cs.mcgill.ca)
 * cGPA of 4.0/4.0
 
 ### Bachelor of Computer Science, Dalhouise University, 2020
@@ -69,6 +68,11 @@ Entrepreneurship](https://www.dal.ca/faculty/management/nnce.html) (Faculty of M
 ## Leadership
 
 <hr>
+
+### VP Finance, [Computer Science Graduate Society](https://csgs.cs.mcgill.ca/)
+* VP Finance for the academic year 2021-2022
+* architected the [society's website redesign](https://csgs.cs.mcgill.ca)
+* handled the society's finances, organized events (list of events [here](https://csgs.cs.mcgill.ca/?page_id=462)
 
 ### Co-president, [Dalhousie Entrepreneurship Society](https://www.facebook.com/dalentsoc/)
 * introduced series of workshops on entrepreneurship and design thinking concepts, open to students of all faculty, with the support of the NNCE/Faculty of Management
