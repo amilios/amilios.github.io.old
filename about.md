@@ -20,7 +20,7 @@ Innovation Fellows Program, and presidential role in Dalhousie Entrepreneurship 
 <hr>
 
 ### M.Sc. in Computer Science, McGill University, 2022
-Admitted to the M.Sc. program at McGill University under Dr. Siva Reddy. 
+Admitted to the M.Sc. program at McGill University under Dr. Siva Reddy. Co-supervised by Dr. Dzmitry Bahdanau. 
 * researching large pre-trained language models and knowledge augmentations
 * cGPA of 4.0/4.0
 
