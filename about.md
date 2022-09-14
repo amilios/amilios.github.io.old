@@ -3,9 +3,6 @@ layout: page
 title: CV
 ---
 
-You can view my full CV in PDF format [here]({{ site.url }}/public/full-cv.pdf).
-{: .notice}
-
 Sections: [Education](#education), [Teaching](#teaching), [Work Experience](#work-experience), [Leadership](#leadership), [Awards and Scholarships](#awards-and-scholarships), [Academic Publications](#academic-publications)
 
 ## Knowledgeable about...
